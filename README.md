@@ -1254,7 +1254,7 @@ Built for TRD Hackathon 2025
 
 **Links:**
 - Live App: https://grgarageml.vercel.app
-- API: https://gr-garage-coach-api.herokuapp.com
+- API: https://gr-garage-coach-api-ce18088c2f04.herokuapp.com
 - GitHub: https://github.com/GR-Garage-Cup/gr-garage-coach
 
 ---
