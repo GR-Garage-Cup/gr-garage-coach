@@ -1250,7 +1250,7 @@ MIT License - Free for personal and commercial use
 
 ## Contact
 
-Built for TRD Hackathon 2025
+Our team has made this for the TRD Hackathon 2025 with GR Cup championship data
 
 **Links:**
 - Live App: https://grgarageml.vercel.app
