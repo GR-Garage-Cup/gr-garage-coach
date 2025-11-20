@@ -1,22 +1,22 @@
 # GR GARAGE COACH
 
-Professional telemetry analysis and coaching for grassroots motorsport. Free, always.
+Professional telemetry analysis and coaching for motorsport. Free, always.
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   MOTORSPORT ACCESS PROBLEM:                                   │
+│   MOTORSPORT ACCESS PROBLEM:                                    │
 │                                                                 │
-│   Professional Coaching: $5,000 to $15,000/season             │
-│   Hourly Rate: $75 to $100/hour                               │
-│   Accessible To: Top 10% of drivers                           │
+│   Professional Coaching: $5,000 to $15,000/season               │
+│   Hourly Rate: $75 to $100/hour                                 │
+│   Accessible To: Top 10% of drivers                             │
 │                                                                 │
-│   SOLUTION: Free, championship data coaching for everyone      │
+│   SOLUTION: Free, championship data coaching for everyone       │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-## Mission
+## Mission, important to read: 
 
 Motorsport has an access problem. Professional data coaching costs $5,000 to $15,000 per season. The cars in GR Cup might be equal, but access to improvement isn't. Three quarters of F1 drivers grew up with money. The talent pool should be bigger than it is.
 
@@ -1224,25 +1224,21 @@ npm install -g vercel
 vercel --prod
 ```
 
-## Future Enhancements
+## This project is important to us and here's how we want to develop it later on
 
-**Planned Features:**
-- [ ] Multi-lap session analysis
-- [ ] Lap comparison tool (overlay 2+ laps)
-- [ ] Video sync (upload onboard + telemetry)
-- [ ] Setup recommendations (tire pressure, alignment)
-- [ ] Weather impact analysis
-- [ ] Racecraft metrics (overtaking, defending)
-- [ ] Mobile app (iOS/Android)
-- [ ] Real-time analysis (live timing integration)
+- Multi-lap session analysis
+- Lap comparison tool (overlay 2+ laps)
+- Video sync (upload onboard + telemetry)
+- Setup recommendations (tire pressure, alignment)
+- Weather impact analysis
+- Racecraft metrics (overtaking, defending)
 
 **Technical Improvements:**
-- [ ] GPU acceleration for physics simulation
-- [ ] WebAssembly for client-side preprocessing
-- [ ] Advanced ML models (transformer architecture)
-- [ ] Track database expansion (15+ circuits)
-- [ ] Tire degradation modeling
-- [ ] Fuel load compensation
+- GPU acceleration for physics simulation
+- Advanced ML models (transformer architecture)
+- Track database expansion (15+ circuits)
+- Tire degradation modeling
+- Fuel load compensation
 
 ## License
 
@@ -1258,5 +1254,3 @@ Our team has made this for the TRD Hackathon 2025 with GR Cup championship data
 - GitHub: https://github.com/GR-Garage-Cup/gr-garage-coach
 
 ---
-
-*Making motorsport coaching accessible to everyone, regardless of budget.*
