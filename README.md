@@ -1253,7 +1253,7 @@ MIT License - Free for personal and commercial use
 Built for TRD Hackathon 2025
 
 **Links:**
-- Live App: https://gr-garage-coach.vercel.app
+- Live App: https://grgarageml.vercel.app
 - API: https://gr-garage-coach-api.herokuapp.com
 - GitHub: https://github.com/GR-Garage-Cup/gr-garage-coach
 
