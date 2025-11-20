@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.venv
+node_modules/
+.DS_Store
+*.log
+.env
+.vercel
+dist/
+build/
